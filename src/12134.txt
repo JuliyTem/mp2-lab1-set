@@ -1,0 +1,104 @@
+Error	3	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	9743
+Error	4	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	9751
+Error	5	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	6	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	7	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	8	error C2955: 'testing::internal::ParamGeneratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	9	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14958
+Error	10	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14969
+Error	11	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14969
+Error	12	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14974
+Error	13	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14974
+Error	14	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14981
+Error	15	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14981
+Error	16	error C2955: 'testing::internal::ParamIteratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14981
+Error	17	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14983
+Error	18	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14983
+Error	19	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15016
+Error	20	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15016
+Error	21	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15058
+Error	22	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15058
+Error	23	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15062
+Error	24	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15062
+Error	25	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15143
+Error	26	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15143
+Error	27	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	28	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	29	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	30	error C2955: 'testing::internal::ParamGeneratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	31	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15197
+Error	32	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15209
+Error	33	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15209
+Error	34	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15214
+Error	35	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15214
+Error	36	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15221
+Error	37	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15221
+Error	38	error C2955: 'testing::internal::ParamIteratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15221
+Error	39	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15223
+Error	40	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15223
+Error	41	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15259
+Error	42	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15259
+Error	43	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15305
+Error	44	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15305
+Error	45	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15309
+Error	46	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15309
+Error	47	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15395
+Error	48	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15395
+Error	49	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15677
+Error	50	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15677
+Error	51	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15677
+Error	52	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15721
+Error	53	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15721
+Error	54	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15721
+Error	56	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	9743
+Error	57	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	9751
+Error	58	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	59	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	60	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	61	error C2955: 'testing::internal::ParamGeneratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14956
+Error	62	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14958
+Error	63	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14969
+Error	64	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14969
+Error	65	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14974
+Error	66	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14974
+Error	67	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14981
+Error	68	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14981
+Error	69	error C2955: 'testing::internal::ParamIteratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14981
+Error	70	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14983
+Error	71	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	14983
+Error	72	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15016
+Error	73	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15016
+Error	74	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15058
+Error	75	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15058
+Error	76	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15062
+Error	77	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15062
+Error	78	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15143
+Error	79	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15143
+Error	80	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	81	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	82	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	83	error C2955: 'testing::internal::ParamGeneratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15195
+Error	84	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15197
+Error	85	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15209
+Error	86	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15209
+Error	87	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15214
+Error	88	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15214
+Error	89	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15221
+Error	90	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15221
+Error	91	error C2955: 'testing::internal::ParamIteratorInterface' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15221
+Error	92	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15223
+Error	93	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15223
+Error	94	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15259
+Error	95	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15259
+Error	96	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15305
+Error	97	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15305
+Error	98	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15309
+Error	99	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15309
+Error	100	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15395
+Error	101	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15395
+Error	102	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15677
+Error	103	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15677
+Error	104	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15677
+Error	105	error C2977: 'std::tuple' : too many template arguments	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15721
+Error	106	error C3203: 'tuple' : unspecialized class template can't be used as a template argument for template parameter 'T', expected a real type	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15721
+Error	107	error C2955: 'std::tuple' : use of class template requires template argument list	D:\Teminite\mp2-lab1-set\gtest\gtest.h	15721
